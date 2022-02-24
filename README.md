@@ -10,7 +10,15 @@ Download and open the project directory in Unity.\
 Download, install, and import Vuforia 10.5.5 package.\
 Start the project by clicking the Play button. \
 Hold the book up in front of the camera to see the effects.\
-To test the back cover, use your hand to cover and uncover the barcode on the book to toggle between book information and review. \
+To test the back cover, use your hand to cover and uncover the barcode on the book to toggle between book information and review. 
+
+[Demo Video](CS-8395-p2-demo2.mov)
+
+## Front Cover
+![Front Cover](front1.jpg)
+## Back Cover
+![Back Cover](back1.jpg)
+
 
 
 
